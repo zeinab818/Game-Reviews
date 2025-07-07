@@ -23,7 +23,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, and powered by the [FreeToGame
 
 - **HTML5**
 - **CSS3** (+ Bootstrap)
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **RapidAPI - FreeToGame API**
 
 ## 📁 Folder Structure
